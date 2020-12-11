@@ -1,2 +1,4 @@
 rencana lusi membuat u
--membuat framework
+-membuat framework 
+  1. deno 
+  2.framework javascript
