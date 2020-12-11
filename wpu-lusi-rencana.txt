@@ -1,6 +1,7 @@
 rencana lusi membuat u
 -membuat framework 
   1. deno 
-  2.framework javascript
+  2.buat video tutorial
   3. algoritma pemrograman
+  8. apalagi
   
