@@ -2,6 +2,7 @@ rencana lusi membuat u
 -membuat framework 
   1. deno 
   2.buat video tutorial
-  3. algoritma pemrograman
-  8. apalagi
-  
+  3. algoritma pemrograma
+  4.pitton
+  5. larafel
+
